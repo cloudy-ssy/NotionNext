@@ -4,7 +4,7 @@
 const CONFIG = {
   // 菜单配置
   EXAMPLE_MENU_CATEGORY: false, // 显示分类
-  EXAMPLE_MENU_TAG: false // 显示标签
+  EXAMPLE_MENU_TAG: true // 显示标签
   EXAMPLE_MENU_ARCHIVE: false, // 显示归档
   EXAMPLE_MENU_SEARCH: true, // 显示搜索
 
